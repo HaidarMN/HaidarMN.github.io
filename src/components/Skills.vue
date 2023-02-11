@@ -14,17 +14,17 @@
 </template>
 
 <script>
+import html from '../assets/icons/html.svg'
+import css from '../assets/icons/css.svg'
+import javascript from '../assets/icons/javascript.svg'
+import vuejs from '../assets/icons/vuejs.svg'
+import laravel from '../assets/icons/laravel.svg'
+import corelDraw from '../assets/icons/corelDraw.svg'
+
 export default {
     data() {
         return {
-            skills: [
-                "src/assets/icons/html.svg",
-                "src/assets/icons/css.svg",
-                "src/assets/icons/javascript.svg",
-                "src/assets/icons/vuejs.svg",
-                "src/assets/icons/laravel.svg",
-                "src/assets/icons/corelDraw.svg"
-            ]
+            skills: [html, css, javascript, vuejs, laravel, corelDraw]
         }
     }
 }

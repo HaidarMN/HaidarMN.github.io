@@ -65,6 +65,14 @@
 </template>
 
 <script>
+import qrScanner from '../assets/images/qrScanner.png'
+import keylogger from '../assets/images/keylogger.png'
+import spp from '../assets/images/spp.png'
+import ai from '../assets/images/ai.png'
+import portfolio from '../assets/images/portfolio.png'
+import covid from '../assets/images/covid.png'
+import perpus from '../assets/images/perpus.png'
+
 export default {
     data() {
         return {
@@ -78,7 +86,7 @@ export default {
                     links: {
                         github: "https://github.com/HaidarMN/py_qrScanner"
                     },
-                    img: "src/assets/images/qrScanner.png"
+                    img: qrScanner
                 },
                 {
                     name: "Keylogger",
@@ -87,7 +95,7 @@ export default {
                     links: {
                         github: "https://github.com/HaidarMN/py_cs"
                     },
-                    img: "src/assets/images/keylogger.png"
+                    img: keylogger
                 },
                 {
                     name: "School Fees Payment",
@@ -96,7 +104,7 @@ export default {
                     links: {
                         github: "https://github.com/HaidarMN/ukk_spp"
                     },
-                    img: "src/assets/images/spp.png"
+                    img: spp
                 },
                 {
                     name: "Simple A.I.",
@@ -105,7 +113,7 @@ export default {
                     links: {
                         github: "https://github.com/HaidarMN/Simple-A.I."
                     },
-                    img: "src/assets/images/ai.png"
+                    img: ai
                 },
                 {
                     name: "Portofolio Website",
@@ -114,7 +122,8 @@ export default {
                     links: {
                         github: "https://github.com/HaidarMN/HaidarMN.github.io",
                         other: "https://haidarmn.github.io"
-                    }
+                    },
+                    img: portfolio
                 },
                 {
                     name: "Self Check-Up Covid-19",
@@ -123,7 +132,7 @@ export default {
                     links: {
                         github: "https://github.com/HaidarMN/Covid-19"
                     },
-                    img: "src/assets/images/covid.png"
+                    img: covid
                 },
                 {
                     name: "Library Website",
@@ -132,7 +141,7 @@ export default {
                     links: {
                         github: "https://github.com/HaidarMN/Web-Perpus"
                     },
-                    img: "src/assets/images/perpus.png"
+                    img: perpus
                 },
             ]
         }
