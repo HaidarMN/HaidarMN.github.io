@@ -81,7 +81,7 @@ export default {
             projects: [
                 {
                     name: "QR Scanner",
-                    desc: "A program that scan a QR code and decode it using OpenCV and PyZBar developed in Python",
+                    desc: "A program that scans a QR code and decodes it using OpenCV and PyZBar developed in Python",
                     langs: ["Python", "OpenCV", "PyZBar"],
                     links: {
                         github: "https://github.com/HaidarMN/py_qrScanner"
@@ -90,7 +90,7 @@ export default {
                 },
                 {
                     name: "Keylogger",
-                    desc: "Keylogger is software program that allows you to record each keystrokes that you type on your keyboard",
+                    desc: "Keylogger is a software program that allows you to record each keystroke that you type on your keyboard",
                     langs: ["Python", "Pynput"],
                     links: {
                         github: "https://github.com/HaidarMN/py_cs"
@@ -108,7 +108,7 @@ export default {
                 },
                 {
                     name: "Simple A.I.",
-                    desc: "An A.I. that work like Google Asisstant using speechRecognition to hear our voice and convert to text-to-speech with pyttsx3 to run the code",
+                    desc: "An A.I. that works like Google Assistant uses speechRecognition to hear our voice and convert to text-to-speech with pyttsx3 to run the code",
                     langs: ["Python", "speechRecognition", "pyttsx3"],
                     links: {
                         github: "https://github.com/HaidarMN/Simple-A.I."
@@ -117,7 +117,7 @@ export default {
                 },
                 {
                     name: "Portofolio Website",
-                    desc: "My portofolio website hosted using Github Pages",
+                    desc: "My portfolio website hosted using Github Pages",
                     langs: ["Vite", "Vue.js", "TailwindCSS"],
                     links: {
                         github: "https://github.com/HaidarMN/HaidarMN.github.io",
@@ -136,7 +136,7 @@ export default {
                 },
                 {
                     name: "Library Website",
-                    desc: "Website that contains all library (fake) books from the database that uses the CRUD method",
+                    desc: "A website that contains all library (fake) books from the database that uses the CRUD method",
                     langs: ["PHP", "HTML", "CSS", "JavaScript"],
                     links: {
                         github: "https://github.com/HaidarMN/Web-Perpus"

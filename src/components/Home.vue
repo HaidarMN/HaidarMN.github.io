@@ -4,12 +4,12 @@
         <h1 class="text-xl sm:text-5xl lg:text-7xl font-extrabold">Haidar Muhammad Naufal</h1>
         <h2 class="sm:text-2xl lg:text-5xl">Software Engineer</h2>
         <p class="text-xs sm:text-base mt-2 sm:mt-4 lg:mt-8 w-full lg:w-2/5">
-            I'm an Indonesian software developer with passion for learning and learn new things.
+            I'm an Indonesian software developer with a passion for learning and learning new things.
         </p>
         <p class="text-xs sm:text-base w-full lg:w-2/5">
             Currently studying at 
             <a href="https://www.upitra.ac.id/" target="_blank" class="font-bold link">Pignatelli Triputra University</a> 
-            major in Information System.
+            majoring in Information System.
         </p>
         <button class="mt-3 sm:mt-4 lg:mt-8 rounded-lg px-3 lg:px-5 py-2 lg:py-3 border border-[#4C5870] hover:bg-[#4C5870] hover:text-[#EBEDEC] text-xs sm:text-base font-bold transition duration-150 ease-in-out w-fit">
             <a href="mailto:hmnaufal14@gmail.com">Contact Me</a>

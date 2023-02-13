@@ -4,21 +4,21 @@
         <div class="flex flex-col-reverse sm:flex-row items-center sm:justify-between w-full mt-2 sm:mt-4 lg:mt-8 gap-4 md:gap-0">
             <div class="flex flex-col sm:w-1/2 gap-2 sm:gap-4">
                 <p class="text-[10px] sm:text-sm md:text-base">
-                    Hi! Since kid I really like anything related to technology.
+                    Hi! Since a kid, I really like anything related to technology.
                     So I started my journey to become a software developer at
                     <a href="https://smktelkom-mlg.sch.id" target="_blank" class="font-bold text-[#4C5870] link">SMK Telkom Sandhy Putra Malang</a>
-                    major in Software Engineering.
-                    I learned Java, HTML5 & CSS3, JavaScript, and I also learned some framework like Laravel and Vue.js.
+                    majoring in Software Engineering.
+                    I learned Java, HTML5 & CSS3, JavaScript, and some frameworks like Laravel and Vue.js.
                 </p>
                 <p class="text-[10px] sm:text-sm md:text-base">
-                    Currently I'm studying at 
+                    Currently, I'm studying at 
                     <a href="https://www.upitra.ac.id/" target="_blank" class="font-bold text-[#4C5870] link">Pignatelli Triputra University</a>.
                     I still learning about C languages.
-                    I got subject about a pointer which is quite interesting to master it and yet hard at the same time.
+                    I got a subject about a pointer which is quite interesting to master and yet hard at the same time.
                 </p>
                 <p class="text-[10px] sm:text-sm md:text-base">
-                    Outside campus, I usually studied Python in my free time. 
-                    I studied the basic, created some project, and learned Cyber Security with Python.
+                    Outside the campus, I usually studied Python in my free time. 
+                    I studied the basics, created some projects, and learned Cyber Security with Python.
                     I also work as a freelancer to push my experience and skill.
                 </p>
             </div>
