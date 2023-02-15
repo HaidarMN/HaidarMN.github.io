@@ -16,13 +16,15 @@
         >
             <a
                 v-for="link in links"
+                :key="link"
+                @click="menu = !menu"
                 :href="'#' + link"
                 class="capitalize py-1 hover:mt-0.5 hover:border-b-2 hover:border-[#4C5870] transition duration-150 ease-out"
             >
                 {{ link }}
             </a>
             <a 
-                href="Resume.pdf"
+                :href="pdf"
                 class="rounded-md px-4 py-2 border border-[#4C5870] hover:bg-[#4C5870] hover:text-[#EBEDEC] transition duration-150 ease-in-out w-fit"
                 target="_blank"
             >
@@ -33,19 +35,15 @@
 </template>
 
 <script>
+import PDF from '../../../public/HaidarMN_Resume.pdf'
+
 export default {
     data() {
         return {
             menu: false,
+            pdf: PDF,
             links: ["about", "skills", "experience", "projects", "contact"]
         }
-    },
-
-    methods: {
-        // menuShow() {
-        //     this.menu = !this.menu
-        //     console.log(this.menu);
-        // }
-    },
+    }
 }
 </script>

@@ -14,8 +14,8 @@
                          | September - November 2022
                     </h3>
                     <p class="text-xs sm:text-sm lg:text-base">
-                        Created an option for changing language to Indonesia and translating some of the contents,
-                        created a table of contents for data protection section,
+                        Created an option for changing the language to Indonesia and translating some of the contents,
+                        created a table of contents for the data protection section,
                         and made a report regarding a cloning issue.
                     </p>
                 </div>
@@ -32,8 +32,8 @@
                          | August - October 2021
                     </h3>
                     <p class="text-xs sm:text-sm lg:text-base">
-                        I work at Gamelab Indonesia as internship designer for 3 months.
-                        My work is make a company's logo with a card name etc.(dummy), re-design some banner, and make a UI Kit for game.
+                        I work at Gamelab Indonesia as an internship designer for 3 months.
+                        My work is to make a company's logo with a card name etc.(dummy), re-design some banners, and make a UI Kit for the game.
                     </p>
                 </div>
             </div>
