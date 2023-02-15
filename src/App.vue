@@ -8,6 +8,9 @@
     <Project id="projects" />
     <Contact id="contact" />
     <Footer />
+    <button @click="scrollToTop" class="fixed bottom-4 right-4 p-1.5 rounded-full bg-[#4C5870] shadow-md">
+      <img src="./assets/icons/chevron-up.svg">
+    </button>
   </div>
 </template>
 
@@ -31,6 +34,18 @@ export default {
     Project,
     Contact,
     Footer,
+  },
+
+  data() {
+    return {
+      sosmed: false
+    }
+  },
+
+  methods: {
+    scrollToTop() {
+      window.scrollTo(0, 0)
+    }
   }
 }
 </script>
