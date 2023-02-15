@@ -35,7 +35,7 @@
 </template>
 
 <script>
-import PDF from '../../../public/HaidarMN_Resume.pdf'
+import PDF from '../../assets/HaidarMN_Resume.pdf'
 
 export default {
     data() {
