@@ -1,9 +1,9 @@
 <template>
     <div class="bg-[#A3A9B0] text-[#EBEDEC] h-fit px-[50px] sm:px-[75px] lg:px-[150px] pt-[50px] sm:pt-[100px] lg:pt-[150px] pb-[50px] sm:pb-[75px] lg:pb-[100px] flex flex-col justify-center gap-2 sm:gap-4">
-        <h1 class="text-xl sm:text-3xl lg:text-5xl text-center font-extrabold">Work Experience</h1>
+        <h1 class="text-xl sm:text-3xl lg:text-5xl text-center font-extrabold hid">Work Experience</h1>
         <div class="flex flex-col timeline mt-2 sm:mt-4 lg:mt-8">
 
-            <div class="flex flex-row z-10 mb-10 gap-8">
+            <div class="flex flex-row z-10 mb-10 gap-8 hid">
                 <div class="w-9 sm:w-10 lg:w-12 h-7 sm:h-10 lg:h-12 p-1.5 sm:p-2.5 flex justify-center bg-[#EBEDEC] rounded-full">
                     <img src="../assets/icons/code.svg">
                 </div>
@@ -21,7 +21,7 @@
                 </div>
             </div>
 
-            <div class="flex flex-row z-10 mb-10 gap-8">
+            <div class="flex flex-row z-10 mb-10 gap-8 hid">
                 <div class="w-9 sm:w-10 lg:w-12 h-7 sm:h-10 lg:h-12 p-1.5 sm:p-2.5 flex justify-center bg-[#EBEDEC] rounded-full">
                     <img src="../assets/icons/vector.svg">
                 </div>

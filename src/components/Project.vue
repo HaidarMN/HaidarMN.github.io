@@ -1,12 +1,12 @@
 <template>
     <div class="bg-[#A3A9B0] text-[#EBEDEC] h-fit px-[50px] sm:px-[75px] lg:px-[150px] pt-[50px] sm:pt-[100px] lg:pt-[150px] pb-[50px] sm:pb-[75px] lg:pb-[100px] flex flex-col justify-center gap-2 sm:gap-4">
-        <h1 class="text-xl sm:text-3xl lg:text-5xl text-center font-extrabold">My Projects</h1>
+        <h1 class="text-xl sm:text-3xl lg:text-5xl text-center font-extrabold hid">My Projects</h1>
         <div class="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 gap-4 mt-2 sm:mt-4 lg:mt-8 justify-items-center">
             <div 
                 v-for="(project, index) in projects"
                 :key="project"
                 @click="showModal(index)"
-                class="h-96 w-full px-6 py-4 bg-[#EBEDEC] text-[#4C5870] rounded flex flex-col justify-between transition ease-in-out delay-150 hover:-translate-y-2 cursor-pointer"
+                class="h-96 w-full px-6 py-4 bg-[#EBEDEC] text-[#4C5870] rounded flex flex-col justify-between transition ease-in-out delay-150 hover:-translate-y-2 cursor-pointer hid"
             >
                 <div class="flex flex-col gap-2">
                     <h2 class="text-lg sm:text-xl lg:text-2xl font-bold line-clamp-2 h-[3.8rem]">{{ project.name }}</h2>
