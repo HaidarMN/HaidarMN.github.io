@@ -3,11 +3,11 @@
         <h1 class="text-xl sm:text-3xl lg:text-5xl text-center font-extrabold hid">Work Experience</h1>
         <div class="flex flex-col timeline mt-2 sm:mt-4 lg:mt-8">
 
-            <div class="flex flex-row z-10 mb-10 gap-8 hid">
-                <div class="w-9 sm:w-10 lg:w-12 h-7 sm:h-10 lg:h-12 p-1.5 sm:p-2.5 flex justify-center bg-[#EBEDEC] rounded-full">
+            <div class="flex flex-row z-10 mb-10 gap-8">
+                <div class="w-9 sm:w-10 lg:w-12 h-7 sm:h-10 lg:h-12 p-1.5 sm:p-2.5 flex justify-center bg-[#EBEDEC] rounded-full hid">
                     <img src="../assets/icons/code.svg">
                 </div>
-                <div class="flex flex-col gap-2 w-full bg-[#EBEDEC] text-[#A3A9B0] rounded-lg py-2 px-4">
+                <div class="flex flex-col gap-2 w-full bg-[#EBEDEC] text-[#A3A9B0] rounded-lg py-2 px-4 hid">
                     <h2 class="text-lg sm:text-xl lg:text-2xl font-bold text-[#4C5870]">Internship Frontend Developer</h2>
                     <h3 class="text-sm sm:text-base lg:text-lg">
                         <a href="https://artspedia.id/" target="_blank" class="hover:text-[#4C5870]">Artspedia</a>
@@ -21,11 +21,11 @@
                 </div>
             </div>
 
-            <div class="flex flex-row z-10 mb-10 gap-8 hid">
-                <div class="w-9 sm:w-10 lg:w-12 h-7 sm:h-10 lg:h-12 p-1.5 sm:p-2.5 flex justify-center bg-[#EBEDEC] rounded-full">
+            <div class="flex flex-row z-10 mb-10 gap-8">
+                <div class="w-9 sm:w-10 lg:w-12 h-7 sm:h-10 lg:h-12 p-1.5 sm:p-2.5 flex justify-center bg-[#EBEDEC] rounded-full hid">
                     <img src="../assets/icons/vector.svg">
                 </div>
-                <div class="flex flex-col gap-2 w-full bg-[#EBEDEC] text-[#A3A9B0] rounded-lg py-2 px-4">
+                <div class="flex flex-col gap-2 w-full bg-[#EBEDEC] text-[#A3A9B0] rounded-lg py-2 px-4 hid">
                     <h2 class="text-lg sm:text-xl lg:text-2xl font-bold text-[#4C5870]">Internship Designer</h2>
                     <h3 class="text-sm sm:text-base lg:text-lg">
                         <a href="https://www.gamelab.id/" target="_blank" class="hover:text-[#4C5870]">Gamelab Indonesia</a>

@@ -12,7 +12,7 @@
 
         <div
             :class="menu ? 'flex' : 'hidden'"
-            class="sm:flex flex-col sm:flex-row gap-3 sm:gap-4 mt-3 sm:mt-0 items-center font-bold text-xs md:text-sm lg:text-base"
+            class="sm:flex flex-col sm:flex-row gap-3 sm:gap-4 mt-3 sm:mt-0 items-center font-bold text-xs md:text-sm lg:text-base navbar-menu"
         >
             <a
                 v-for="link in links"

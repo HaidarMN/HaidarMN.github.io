@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col">
-    <Navbar />
-    <Home />
+    <Navbar id="navbar" />
+    <Home id="home" />
     <Profile id="about" />
     <Skills id="skills" />
     <Experience id="experience" />
