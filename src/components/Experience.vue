@@ -29,7 +29,7 @@
                     <h2 class="text-lg sm:text-xl lg:text-2xl font-bold text-[#4C5870]">Internship Designer</h2>
                     <h3 class="text-sm sm:text-base lg:text-lg">
                         <a href="https://www.gamelab.id/" target="_blank" class="hover:text-[#4C5870]">Gamelab Indonesia</a>
-                         | August - October 2021
+                         | July - September 2021
                     </h3>
                     <p class="text-xs sm:text-sm lg:text-base">
                         I work at Gamelab Indonesia as an internship designer for 3 months.

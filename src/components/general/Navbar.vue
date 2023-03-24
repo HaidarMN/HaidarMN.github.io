@@ -26,7 +26,7 @@
             <a 
                 :href="pdf"
                 class="rounded-md px-4 py-2 border border-[#4C5870] hover:bg-[#4C5870] hover:text-[#EBEDEC] transition duration-150 ease-in-out w-fit hid"
-                target="_blank"
+                download="HaidarMuhammadNaufal_Resume"
             >
                 Resume
             </a>
@@ -35,7 +35,7 @@
 </template>
 
 <script>
-import PDF from '../../assets/HaidarMN_Resume.pdf'
+import PDF from '../../assets/HaidarMuhammadNaufal_Resume.pdf'
 
 export default {
     data() {
